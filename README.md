@@ -1,4 +1,4 @@
-# StudyLog
+# CS-Note
 
 Keeping track of my learning of Java, computer science knowledge, and interview algorithms
 

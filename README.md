@@ -50,7 +50,13 @@ Here is the table of contents for the article.
 
 ## Tool Learing
 
+### Git
+
 [Git-Summary](https://github.com/Flow-sandyu/CS-Note/blob/6020e17a7e3ffbeab5269eeaf652d8978fda04dd/Tool/Git/Git-Summary.md)
+
+### AITool
+
+[GPT 取代不了程序员](Tool/AITool/GPT取代不了程序员.md)
 
 ## Learning Method
 
